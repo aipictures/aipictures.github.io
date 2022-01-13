@@ -8,13 +8,10 @@
         <id>http://example.com/2021/12/30/%E6%88%92%E6%8C%87/</id>
         <title></title>
         <link rel="alternate" href="http://example.com/2021/12/30/%E6%88%92%E6%8C%87/"/>
-        <content type="html">&lt;p&gt;title: 戒指&lt;br&gt;
- date: 2021-12-30 15:20:42&lt;br&gt;
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;短篇&lt;/li&gt;
-&lt;/ul&gt;
+        <content type="html">&lt;p&gt;戒指&lt;/p&gt;
 &lt;p&gt;(日) 江户川乱步 著；    随小译 译&lt;/p&gt;
+&lt;p&gt;date: 2021-12-30 15:20:42&lt;br&gt;
+tags: - 短篇&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;p&gt;A：不好意思，我之前似乎也与您同乘过一列火车呢。&lt;/p&gt;
 &lt;p&gt;B：恕我眼拙刚才没认出您来。这么一说，我也想起来了。那时也是这条线路吧。&lt;/p&gt;
@@ -53,7 +50,6 @@ tags:&lt;/p&gt;
 &lt;p&gt;A：太好了，别再卖关子了。这样我真的搞不明白。&lt;/p&gt;
 &lt;p&gt;B：你要是觉得这是谎话，我可是会生气的。那我开始说了，可不许发火。其实，我悄悄把它放在你腰上的烟盒底下了。话虽如此，那时你身上还真是处处有机可乘。哈哈哈哈哈。嗯，什么时候取回了那个戒指？这还用说，你为了早点去捡橘子，匆匆忙忙地走出售票口的时候。&lt;/p&gt;
 &lt;p&gt;完&lt;/p&gt;
-&lt;p&gt;&lt;span id=&#34;busuanzi_container_page_pv&#34;&gt;   阅读数: &lt;span id=&#34;busuanzi_value_page_pv&#34;&gt;&lt;/span&gt;次&lt;/span&gt;&lt;/p&gt;
 </content>
         <updated>2021-12-30T10:10:47.591Z</updated>
     </entry>
