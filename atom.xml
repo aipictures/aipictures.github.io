@@ -4,11 +4,13 @@
     <title>随译网</title>
     <link href="http://suixiaoyi.github.io" />
     <updated>2022-01-19T09:59:55.000Z</updated>
-    <category term="/- 短篇 /- 翻译 /- 文学" />
+    <category term="短篇" />
+    <category term="翻译" />
+    <category term="文学" />
     <entry>
-        <id>http://suixiaoyi.github.io/2022/01/19/%E6%88%92%E6%8C%87/</id>
+        <id>http://suixiaoyi.github.io/2022/01/19/jie-zhi/</id>
         <title>戒指</title>
-        <link rel="alternate" href="http://suixiaoyi.github.io/2022/01/19/%E6%88%92%E6%8C%87/"/>
+        <link rel="alternate" href="http://suixiaoyi.github.io/2022/01/19/jie-zhi/"/>
         <content type="html">&lt;p&gt;(日) 江户川乱步 著；    随小译 译&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;p&gt;A：不好意思，我之前似乎也与您同乘过一列火车呢。&lt;/p&gt;
@@ -49,7 +51,9 @@
 &lt;p&gt;B：你要是觉得这是谎话，我可是会生气的。那我开始说了，可不许发火。其实，我悄悄把它放在你腰上的烟盒底下了。话虽如此，那时你身上还真是处处有机可乘。哈哈哈哈哈。嗯，什么时候取回了那个戒指？这还用说，你为了早点去捡橘子，匆匆忙忙地走出售票口的时候。&lt;/p&gt;
 &lt;p&gt;完&lt;/p&gt;
 </content>
-        <category term="/- 短篇 /- 翻译 /- 文学" />
+        <category term="短篇" />
+        <category term="翻译" />
+        <category term="文学" />
         <updated>2022-01-19T09:59:55.000Z</updated>
     </entry>
 </feed>
